@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 技術構成・システムアーキテクチャ
+## 技術構成・システムアーキテクチャ
 
 ### 1. ハードウェア（Hardware）
 - **中央処理装置**：NVIDIA Jetson Nano（AI性能472 GFLOPS、4GB RAM、128コアCUDA GPU）
